@@ -1,6 +1,8 @@
 # teste-fullstack-navarra
 Resolução de Alexandre Gomes
+
 Enunciado incluido nos ficheiros do projeto
+
 Desenvolvido com Node.js
 
 ## NPM
